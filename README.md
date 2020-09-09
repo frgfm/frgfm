@@ -18,7 +18,7 @@ I'm F-G (short for François-Guillaume :fr:), a Deep Learning engineer specializ
 
 - Where I share my work: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-- How I serve my applications: ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+- How I serve my applications: ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![Django](https://img.shields.io/badge/Web-Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 - And what I play around with: ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
