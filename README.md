@@ -1,8 +1,25 @@
-![Hello there](https://media1.tenor.com/images/6a4df9527c54d4528fb2b2ab47e7d422/tenor.gif?itemid=13774600)
+<p align="center">
+  <img src="https://media1.tenor.com/images/6a4df9527c54d4528fb2b2ab47e7d422/tenor.gif?itemid=13774600" alt="Hello there">
+</p>
 
-I'm F-G (short for François-Guillaume :fr:), a Deep Learning engineer specialized in Computer Vision :wave:
+<p align="center">
+Hi! I'm F-G (short for François-Guillaume :fr:) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</p>
 
-### Current stack
+<details>
+  <summary>About me 👈</summary>
+
+- 👨‍🦱 I'm a Deep Learning Engineer (primarily Computer Vision) [@Mindee](https://mindee.com/) & a volunteer [@PyroNear](https://pyronear.org/)
+- :heart: I'm passionate about open source, machine perception, astrophysics & environment protection
+- 🌱 Currently learning about 3D modeling & physics simulation
+- 😄 What I actually do on my spare time 🏉 🎹 📷
+- 👀 What I wish I could do more often 🏄 ⛷️
+
+
+</details>
+
+### Tech stack 💻
+
 - What I mostly work with:
    - Programming languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
@@ -29,17 +46,12 @@ I'm F-G (short for François-Guillaume :fr:), a Deep Learning engineer specializ
 - How I serve my applications: ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/Web-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-### Coming soon
-![JAX](https://img.shields.io/badge/-JAX-A8A4A3?style=flat-square&logo=JAX&logoColor=white)
+- Coming soon: ![JAX](https://img.shields.io/badge/-JAX-A8A4A3?style=flat-square&logo=JAX&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-
-### Hobbies
-- What I actually do on my spare time: :rugby_football: :musical_keyboard: :camera:
-- What I wish I could do more often: :surfer: :ski:
 
 ![FG's github stats](https://github-readme-stats.vercel.app/api?username=frgfm&show_icons=true)
