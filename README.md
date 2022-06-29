@@ -41,9 +41,9 @@ Hi! I'm F-G (short for François-Guillaume :fr:) <img src="https://media.giphy.c
 
 - How I write fancy equations: ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 
-- Where I share my work: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/frgfm)
+- Where I share my work: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/frgfm) ![PyPi](https://img.shields.io/badge/-PyPi-3775A9?style=flat-square&logo=PyPi&logoColor=white) ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
 
-- How I serve my applications: ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/Web-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
+- How I serve my applications: ![Poetry](https://img.shields.io/badge/Packaging-Poetry-60A5FA?style=flat-square&logo=Poetry&logoColor=white) ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/Web-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 - Coming soon: ![JAX](https://img.shields.io/badge/-JAX-A8A4A3?style=flat-square&logo=JAX&logoColor=white)
