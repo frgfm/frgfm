@@ -9,7 +9,8 @@ Hi! I'm F-G (short for François-Guillaume :fr:) <img src="https://media.giphy.c
 <details>
   <summary>About me 👈</summary>
 
-- 👨‍🦱 I'm a Deep Learning Engineer (primarily Computer Vision) [@Mindee](https://mindee.com/) & a volunteer [@PyroNear](https://pyronear.org/)
+- 👨‍🦱 I'm a Deep Learning Engineer (primarily Computer Vision) by day, an Open Source contributor by night 🦇
+- 💼 Currently brewing a company of my own, I co-founded the NGO [@PyroNear](https://pyronear.org/) & volunteer [@dataforgoodfr](https://dataforgood.fr/) 
 - :heart: I'm passionate about open source, machine perception, astrophysics & environment protection
 - 🌱 Currently learning about 3D modeling & physics simulation
 - 😄 What I actually do on my spare time 🏉 🎹 📷
