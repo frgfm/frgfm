@@ -14,7 +14,7 @@ Hi! I'm F-G (short for François-Guillaume :fr:) <img src="https://media.giphy.c
 
 
 <details>
-  <summary>Tech stack 👈</summary>
+  <summary>Tech stack 💻</summary>
 
 - Programming languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
@@ -44,5 +44,10 @@ Hi! I'm F-G (short for François-Guillaume :fr:) <img src="https://media.giphy.c
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 </details>
-
+<details>
+  <summary>Stats 📈</summary>
+  
 ![FG's github stats](https://github-readme-stats.vercel.app/api?username=frgfm&show_icons=true)
+
+</details>
+
