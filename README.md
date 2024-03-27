@@ -48,6 +48,7 @@ Hi! I'm F-G (short for François-Guillaume :fr:) <img src="https://media.giphy.c
   <summary>Stats 📈</summary>
   
 ![FG's github stats](https://github-readme-stats.vercel.app/api?username=frgfm&show_icons=true)
+![FG top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frgfm&layout=compact&hide=Jupyter+Notebook)
 
 </details>
 
